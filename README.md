@@ -8,3 +8,4 @@ A small script that reads the bakery's stock sheet and reports:
 ## Files
 - `inventory_report.py` — the analysis script
 - `inventory.csv` — the current stock sheet
+# mariam
