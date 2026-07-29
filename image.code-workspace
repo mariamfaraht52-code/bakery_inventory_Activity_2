@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "image",
+			"path": "../../Desktop/image"
+		},
+		{
+			"name": "New Project Smart City",
+			"path": "../../Desktop/New Project Smart City"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "New Project Smart City"
+	}
+}

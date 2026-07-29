@@ -21,6 +21,3 @@ def main():
 
     total_value = sum(int(row['quantity']) * float(row['unit_price']) for row in items)
     print(f"\nTotal value of current inventory: ${total_value:.2f}")
-
-if __name__ == '__main__':
-    main()
