@@ -21,3 +21,5 @@ def main():
 
     total_value = sum(int(row['quantity']) * float(row['unit_price']) for row in items)
     print(f"\nTotal value of current inventory: ${total_value:.2f}")
+    print("welcome to github")
+    print(f'avg={total_value/len(items):.2f}')
